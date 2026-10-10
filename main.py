@@ -15,7 +15,7 @@ from telegram.error import BadRequest
 IMAGE_COUNT = 5  # <-- поставь нужное количество
 
 # Дата, от которой считаем дни
-START_DATE = date(2026, 9, 15)
+START_DATE = date(2026, 10, 11)
 
 
 def calculate_days() -> int:
